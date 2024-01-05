@@ -110,7 +110,7 @@ function Home() {
                   
               </div>
       </div>
-      {/* <div className='col-3'>ssssssssss</div> */}
+     
     </Row>
   );
 }
